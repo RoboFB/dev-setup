@@ -33,10 +33,10 @@ take ideas from it. The actual dotfiles are kept private.
 | Tool | Why it matters |
 |---|---|
 | [fish](https://fishshell.com) | Autosuggestions and syntax highlighting out of the box, no plugin setup |
-| [clangd](https://clangd.llvm.org) | Errors and completion as I type. Adds `-Wall -Wextra -Werror -std=c++17` and the usual include folders to every project, so it works without a `compile_commands.json` |
-| `-fsanitize` ([ASan](https://clang.llvm.org/docs/AddressSanitizer.html), [UBSan](https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html), [TSan](https://clang.llvm.org/docs/ThreadSanitizer.html)) | Catch out-of-bounds access, use-after-free, undefined behaviour and data races exactly where they happen |
 | [zoxide](https://github.com/ajeetdsouza/zoxide) | Jump to any project by a fragment of its name instead of typing paths |
 | [chezmoi](https://www.chezmoi.io) | One dotfile repo for the school PCs and WSL, so a fresh login looks the same everywhere. Editing a config opens it in VS Code; closing the tab applies, commits and pushes it |
+| `-fsanitize` ([ASan](https://clang.llvm.org/docs/AddressSanitizer.html), [UBSan](https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html), [TSan](https://clang.llvm.org/docs/ThreadSanitizer.html)) | Catch out-of-bounds access, use-after-free, undefined behaviour and data races exactly where they happen |
+| [clangd](https://clangd.llvm.org) | Errors and completion as I type. Adds `-Wall -Wextra -Werror -std=c++17` and the usual include folders to every project, so it works without a `compile_commands.json` |
 
 ---
 
