@@ -76,4 +76,10 @@ alias la='ls -Al'                     # list everything, hidden files included
 
 ---
 
-<sub>Set up with help from <a href="https://claude.ai">Claude</a>. The tools and choices are my own.</sub>
+## About this repo
+
+This README was written with [Claude](https://claude.ai), and I reviewed all of it myself.
+It is mostly a public summary of my private chezmoi config.
+
+If you want to know more, get in touch through my [GitHub profile](https://github.com/RoboFB).
+I'm more than happy to help you set something up or explain how a part of it works.
