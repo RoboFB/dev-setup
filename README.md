@@ -48,7 +48,7 @@ take ideas from it. The actual dotfiles are kept private.
 | [42_minishell_tester](https://github.com/zstenger93/42_minishell_tester) | Hundreds of shell cases compared against bash |
 | [valgrind](https://valgrind.org) | Finds leaks and invalid reads without recompiling |
 | [lldb](https://lldb.llvm.org) | Stepping through code when printf isn't enough |
-| [make](https://www.gnu.org/software/make/) | Every project is built with a Makefile, so make targets are what I type most |
+| [make](https://www.gnu.org/software/make/manual/make.html) | Every project is built with a Makefile, so make targets are what I type most |
 | [VS Code](https://code.visualstudio.com) | Main editor, also set as git's editor, diff tool and merge tool |
 | [lazydocker](https://github.com/jesseduffield/lazydocker) | Containers, logs and volumes in one terminal view while building Inception |
 | [Docker Compose](https://docs.docker.com/compose/) | Runs the Inception services together |
