@@ -51,7 +51,6 @@ take ideas from it. The actual dotfiles are kept private.
 | [make](https://www.gnu.org/software/make/manual/make.html) | Every project is built with a Makefile, so make targets are what I type most |
 | [VS Code](https://code.visualstudio.com) | Main editor, also set as git's editor, diff tool and merge tool |
 | [lazydocker](https://github.com/jesseduffield/lazydocker) | Containers, logs and volumes in one terminal view while building Inception |
-| [Docker Compose](https://docs.docker.com/compose/) | Runs the Inception services together |
 | [clang-tidy](https://clang.llvm.org/extra/clang-tidy/) | `bugprone-*` and `performance-*` checks, shown inline through clangd |
 | [clang-format](https://clang.llvm.org/docs/ClangFormat.html) | My own style with no preset: tabs, Allman braces, 80 columns, for the C++ modules |
 | [fzf](https://github.com/junegunn/fzf) | Fuzzy picker for history, files and zoxide matches |
@@ -59,6 +58,22 @@ take ideas from it. The actual dotfiles are kept private.
 | [gh](https://cli.github.com) | GitHub from the terminal |
 
 On top of that I keep a few small custom helper scripts for repetitive 42 tasks.
+
+---
+
+## VS Code extensions
+
+Sorted by how much they help me day to day.
+
+| Extension | Why |
+|---|---|
+| [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) | Brings clangd into the editor: errors, completion, go-to-definition |
+| [42 Header (Long)](https://marketplace.visualstudio.com/items?itemName=secondfry.42header-long) | Inserts and updates the 42 file header that the Norm requires |
+| [Claude Code](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) | AI pair programmer right next to the code |
+| [Toggle Semicolon](https://marketplace.visualstudio.com/items?itemName=awesomektvn.toggle-semicolon) | Adds or removes the semicolon at the end of the line with one shortcut, without moving the cursor |
+| [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | Catches typos in names, comments and READMEs |
+| [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) | Opens the subject PDF in a tab beside the code |
+| [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | File icons that make large project trees easier to scan |
 
 ---
 
