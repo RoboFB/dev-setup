@@ -1,6 +1,6 @@
 <div align="center">
 
-#The tools behind my 42 projects: what I use, and why.
+# The tools behind my 42 projects: what I use, and why.
 
 ![OS](https://img.shields.io/badge/OS-WSL%20%2B%2042%20Linux-0078D6?style=flat-square)
 ![Shell](https://img.shields.io/badge/Shell-fish-4AAE46?style=flat-square)
